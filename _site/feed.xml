@@ -1,10 +1,221 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-02-24T06:36:41-05:00</updated><id>http://localhost:4000/</id><title type="html">Teaching as Art</title><entry><title type="html">Teaching as Art Day 2019</title><link href="http://localhost:4000/posts/teachingasartday/" rel="alternate" type="text/html" title="Teaching as Art Day 2019" /><published>2019-02-18T00:00:00-05:00</published><updated>2019-02-18T00:00:00-05:00</updated><id>http://localhost:4000/posts/teachingasartday</id><content type="html" xml:base="http://localhost:4000/posts/teachingasartday/">&lt;h2 id=&quot;workshop-by-nyu-itp-students&quot;&gt;Workshop by NYU ITP students&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-02-24T07:10:05-05:00</updated><id>http://localhost:4000/</id><title type="html">Teaching as Art</title><entry><title type="html">Teaching as Art Day 2019</title><link href="http://localhost:4000/posts/teachingasartday/" rel="alternate" type="text/html" title="Teaching as Art Day 2019" /><published>2019-02-24T00:00:00-05:00</published><updated>2019-02-24T00:00:00-05:00</updated><id>http://localhost:4000/posts/teachingasartday</id><content type="html" xml:base="http://localhost:4000/posts/teachingasartday/">&lt;h2 id=&quot;workshop-by-nyu-itp-students&quot;&gt;Workshop by NYU ITP students&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Time&lt;/li&gt;
   &lt;li&gt;Location&lt;/li&gt;
   &lt;li&gt;RSVP&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Workshop by NYU ITP students</summary></entry><entry><title type="html">Resources</title><link href="http://localhost:4000/posts/resources/" rel="alternate" type="text/html" title="Resources" /><published>2019-02-18T00:00:00-05:00</published><updated>2019-02-18T00:00:00-05:00</updated><id>http://localhost:4000/posts/resources</id><content type="html" xml:base="http://localhost:4000/posts/resources/">&lt;p&gt;&lt;strong&gt;Resources&lt;/strong&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Workshop by NYU ITP students</summary></entry><entry><title type="html">Syllabus Workshop</title><link href="http://localhost:4000/posts/syllabusworkshop/" rel="alternate" type="text/html" title="Syllabus Workshop" /><published>2019-02-19T00:00:00-05:00</published><updated>2019-02-19T00:00:00-05:00</updated><id>http://localhost:4000/posts/syllabusworkshop</id><content type="html" xml:base="http://localhost:4000/posts/syllabusworkshop/">&lt;p&gt;&lt;strong&gt;Designing a Syllabus&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(In class activity ahead)
+We’re going to design a syllabi for a semester-long course, &lt;strong&gt;Digital Identity&lt;/strong&gt;. Your class will take place in the hypothetical high school curriculum you designed for the previous assignment.&lt;/p&gt;
+
+&lt;p&gt;This class is designed for Gen Z-ers, those born after 2000. These students grew up with their parents posting photos on social media of them, these students have a drastically different construct of personhood as a digital citizen than their educators and older peers. This course is designed to take ownership of this identity.&lt;/p&gt;
+
+&lt;p&gt;Topics which fall under this course include:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Security &amp;amp; privacy&lt;/li&gt;
+  &lt;li&gt;Self-care &amp;amp; mental health&lt;/li&gt;
+  &lt;li&gt;Race, gender, self-expression&lt;/li&gt;
+  &lt;li&gt;Digital literacy and access&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Steps to Building a Syllabus&lt;/strong&gt;
+&lt;img src=&quot;/static/images/Syllabus_Funnel.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/static/images/Syllabus_FunnelCake.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1) Itemizing&lt;/strong&gt;
+The first step in syllabus building is itemizing everything you want to cover. Take a few minutes to go on a free association, make a mental map of items which include references, names, contexts, simulations, activities, discrete unit of information.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/Syllabus_Items.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/static/images/Syllabus_Items1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2) Listing&lt;/strong&gt;
+Lists everything you want to cover under one layer of hierarchy/categorization. Try to list them in the order of importance. Try to eliminate redundant or less important items. Make at least two iterations of the lists, and see which one works better.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/Syllabus_List.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3) Modularize&lt;/strong&gt;
+Modularizing is a process of grouping by hierarchy - extracting key topics from each module. All of the steps up and including modularizing are geared towards establishing the learning outcomes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/Syllabus_Modules.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/static/images/Syllabus_KeyTopics.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And then categorize the modules into key topics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/Syllabus_List_to_Modules.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4) Sequencing&lt;/strong&gt;
+Sequencing is about breaking up information and key topics over time. It is in step 4 where we begin to think about learning objectives in relations to in class activities and  homeworks, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/Syllabus_Sequence.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The colored in dots are key topics and concepts. 
+The open dots are pieces of discrete information and knowledge&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5) Speed&lt;/strong&gt;
+How do we take into account the global speed of the class at large but also individualized learning speed? Not everyone will learn at the same speed, how can we make the course interesting and challenging while also keeping it accessible for most people? What deadlines and testing can we implement to support a fair speed that benefits all students?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/Syllabus_Speed.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6) Narrative&lt;/strong&gt;
+Constructing a narrative around the class includes mapping discrete information and knowledge and key topics and concepts over a learning curve of time + learner. We want to create a syllabus which feels like a script.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/Syllabus_Narrative.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/static/images/Syllabus_Key.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6) Correlations&lt;/strong&gt;
+Teaching is never in a vacuum, there are always correlations between other syllabi - the learning is always within a greater context, environment and habitat. Finding correlations is a process of zooming back out to the curriculum to see how this particular syllabus 
+connects with other classes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/Syllabus_Correlations.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Consult with other teachers, guardians and students to assess the syllabi&lt;/p&gt;</content><author><name></name></author><summary type="html">Designing a Syllabus</summary></entry><entry><title type="html">Curriculum workshop</title><link href="http://localhost:4000/posts/curriculumworkshop/" rel="alternate" type="text/html" title="Curriculum workshop" /><published>2019-02-19T00:00:00-05:00</published><updated>2019-02-19T00:00:00-05:00</updated><id>http://localhost:4000/posts/curriculumworkshop</id><content type="html" xml:base="http://localhost:4000/posts/curriculumworkshop/">&lt;h3 id=&quot;curriculum-workshop&quot;&gt;Curriculum workshop&lt;/h3&gt;
+
+&lt;p&gt;This workshop is to help you identify your objective for teaching&lt;/p&gt;
+
+&lt;p&gt;Three things&lt;/p&gt;
+
+&lt;h4 id=&quot;objective&quot;&gt;Objective&lt;/h4&gt;
+
+&lt;p&gt;Why would a student want to take this class? 
+What kind of experience are you hoping to give to the student? 
+Also what does the student need to know in advance?&lt;/p&gt;
+
+&lt;h4 id=&quot;outcome&quot;&gt;Outcome&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;observing and
+recalling information;
+knowing dates,
+events, places;
+knowing concepts &amp;amp;
+major ideas&lt;/li&gt;
+  &lt;li&gt;list, define, tell,
+describe, identify,
+show, label, collect,
+examine, tabulate,
+quote, name&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Comprehension&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;understanding
+information; grasping
+meaning; comparing;
+contrasting; ordering;
+grouping; inferring
+causes; predicting
+consequences;
+translating knowledge
+into new contexts&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;summarize, describe,
+interpret, contrast,
+predict, associate,
+distinguish, estimate,
+differentiate, discuss,
+extend&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Application&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;using concepts,
+theories in new
+situations; solving
+problems using
+required skills or
+knowledge&lt;/li&gt;
+  &lt;li&gt;apply, demonstrate,
+calculate, complete,
+illustrate, show, solve,
+examine, modify,
+relate, change, classify,
+experiment, discover&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Analysis&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;seeing patterns;
+organizing parts;
+recognizing hidden
+meanings; identifying
+components
+-analyze, separate,
+order, explain,
+connect, classify,
+arrange, divide,
+compare, select, infer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Synthesis&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Synthesis involves the “putting together of elements and parts so as to form a whole.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Evalutation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;comparing and
+discriminating
+between ideas;
+assessing value
+of theories,
+presentations; making
+choices based on
+reasoned argument;
+verifying value of
+evidence; recognizing
+subjectivity&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;assess, decide, rank,
+measure, recommend,
+convince, select,
+judge, explain,
+discriminate, support,
+conclude, compare&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tools&quot;&gt;Tools&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.alsde.edu/sec/ari/Literacy%20and%20Justice/Bloom's%20Taxonomy%20Revised.pdf&quot;&gt;Bloom’s taxonomy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/&quot;&gt;More&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taxonomy of Educational Objectives (Handbook One, pp. 201-207):
+– Bloom, Englehart, Furst, Hill,
+&amp;amp; Krathwoh)&lt;/p&gt;
+
+&lt;h3 id=&quot;in-class-activity&quot;&gt;In Class Activity&lt;/h3&gt;
+
+&lt;p&gt;Imagine yourself as a member of the D.O.E., or a school’s board member who would be reviewing curricula. Consider yourself as someone who would be critical of a proposed curricula, specifically attuned to where it would break. Think about questions they may have, such as: &lt;em&gt;How does this curricula enable a path to college acceptance? How does grading work in this curriculum?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In pairs we are going to review one another’s curriculum, providing critical feedback. We will then take time to be critical of our own curricula and revise or propose edits based on your conversations and received feedback.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;10 minutes - close reading of your partner’s curricula&lt;/li&gt;
+  &lt;li&gt;10 mintutes - share constructive criticism and feedback with your partner (each person taking 5 minutes to share with each other)&lt;/li&gt;
+  &lt;li&gt;5 minutes - think about how you would revise your curriculum based on your conversation&lt;/li&gt;
+  &lt;li&gt;Discuss your process with the class&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Curriculum workshop</summary></entry><entry><title type="html">10 Minutes Professor</title><link href="http://localhost:4000/posts/10minutesprofessor/" rel="alternate" type="text/html" title="10 Minutes Professor" /><published>2019-02-19T00:00:00-05:00</published><updated>2019-02-19T00:00:00-05:00</updated><id>http://localhost:4000/posts/10minutesprofessor</id><content type="html" xml:base="http://localhost:4000/posts/10minutesprofessor/">&lt;p&gt;10 Minutes Professor.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Activity in a pair&lt;/li&gt;
+  &lt;li&gt;Everyone will have a learning map of their partner&lt;/li&gt;
+  &lt;li&gt;You will have 10 minutes to prepare a lesson for your partner, using their learning map. The topic of instruction is: how to boil an egg.&lt;/li&gt;
+  &lt;li&gt;You must write / draw the syllabus&lt;/li&gt;
+  &lt;li&gt;After the session, your partner will teach you for 10 minutes&lt;/li&gt;
+  &lt;li&gt;You will give each other feedback about teaching style and the syllabus&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">10 Minutes Professor.</summary></entry><entry><title type="html">Resources</title><link href="http://localhost:4000/posts/resources/" rel="alternate" type="text/html" title="Resources" /><published>2019-02-18T00:00:00-05:00</published><updated>2019-02-18T00:00:00-05:00</updated><id>http://localhost:4000/posts/resources</id><content type="html" xml:base="http://localhost:4000/posts/resources/">&lt;p&gt;&lt;strong&gt;Resources&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
