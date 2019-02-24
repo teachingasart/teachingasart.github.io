@@ -1,1 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-02-22T19:24:18-05:00</updated><id>http://localhost:4000/</id><title type="html">Distributed Web of Care</title></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-02-24T06:36:41-05:00</updated><id>http://localhost:4000/</id><title type="html">Teaching as Art</title><entry><title type="html">Teaching as Art Day 2019</title><link href="http://localhost:4000/posts/teachingasartday/" rel="alternate" type="text/html" title="Teaching as Art Day 2019" /><published>2019-02-18T00:00:00-05:00</published><updated>2019-02-18T00:00:00-05:00</updated><id>http://localhost:4000/posts/teachingasartday</id><content type="html" xml:base="http://localhost:4000/posts/teachingasartday/">&lt;h2 id=&quot;workshop-by-nyu-itp-students&quot;&gt;Workshop by NYU ITP students&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Time&lt;/li&gt;
+  &lt;li&gt;Location&lt;/li&gt;
+  &lt;li&gt;RSVP&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Workshop by NYU ITP students</summary></entry><entry><title type="html">Resources</title><link href="http://localhost:4000/posts/resources/" rel="alternate" type="text/html" title="Resources" /><published>2019-02-18T00:00:00-05:00</published><updated>2019-02-18T00:00:00-05:00</updated><id>http://localhost:4000/posts/resources</id><content type="html" xml:base="http://localhost:4000/posts/resources/">&lt;p&gt;&lt;strong&gt;Resources&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/teachingasart/2019/blob/master/Workshops/curriculumworkshop.md&quot;&gt;Designing a curriculum&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/teachingasart/2019/blob/master/Workshops/syllabusworkshop.md&quot;&gt;Designing a syllabus worksheet&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Resources</summary></entry><entry><title type="html">Lectures</title><link href="http://localhost:4000/posts/lectures/" rel="alternate" type="text/html" title="Lectures" /><published>2019-02-18T00:00:00-05:00</published><updated>2019-02-18T00:00:00-05:00</updated><id>http://localhost:4000/posts/lectures</id><content type="html" xml:base="http://localhost:4000/posts/lectures/">&lt;p&gt;&lt;strong&gt;Lectures&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taeyoonchoi.com/artofteaching/#/1&quot;&gt;Week 1 - Learner&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://tchoi8.github.io/teachingasart/lecture3-2019.html#/&quot;&gt;Week 2 - Syllabus&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://tchoi8.github.io/teachingasart/2019_lecture3.html#/&quot;&gt;Week 3 - Pedagogy, Museums &amp;amp; Communities as a School&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://tchoi8.github.io/teachingasart/lecture5#/&quot;&gt;Week 4 - Unlearning &amp;amp; Inclusive Learning Part 1&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://tchoi8.github.io/teachingasart/lecture6#/&quot;&gt;Part 2&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Lectures</summary></entry></feed>

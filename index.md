@@ -1,24 +1,16 @@
 ---
 layout: home
 ---
-![group photo](static/images/og.jpg)
+![group photo](static/images/teaching.svg)
 
 
-Teaching as Art Day, March 2, 2019 
+A graduate level course offered at NYU ITP in Spring 2019
 
+Saturdays 12:00 ~ 4:25pm ITP Room 50
 
-**Lectures**
+Professor: Taeyoon Choi trc6@nyu.edu
 
-+ [Week 1 - Learner](http://taeyoonchoi.com/artofteaching/#/1)
+This class is for artists and creative technologists who want to teach. A good teacher is also a great student themself. They transform their curiosity into knowledge and share their learning processes with others. One can learn to become a better teacher by staying fearless about ‘not knowing’ something, embracing radically open ideas and connecting various expertise and knowledge. Teaching can be a form of artistic and creative practice in collaboration with a diverse community. Teachers can invent new forms of learning spaces, new kinds of collaboration and new senses of community.  
 
-+ [Week 2 - Syllabus](https://tchoi8.github.io/teachingasart/lecture3-2019.html#/)
-
-+ [Week 3 - Pedagogy, Museums & Communities as a School](https://tchoi8.github.io/teachingasart/2019_lecture3.html#/)
-
-+ [Week 4 - Unlearning & Inclusive Learning Part 1](https://tchoi8.github.io/teachingasart/lecture5#/) & [Part 2](https://tchoi8.github.io/teachingasart/lecture6#/)
-
-**Resources** 
-
-+ [Designing a curriculum](https://github.com/teachingasart/2019/blob/master/Workshops/curriculumworkshop.md)
-
-+ [Designing a syllabus worksheet](https://github.com/teachingasart/2019/blob/master/Workshops/syllabusworkshop.md)
+ 
+ 
