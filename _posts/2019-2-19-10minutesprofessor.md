@@ -13,3 +13,4 @@ layout: post
 - After the session, your partner will teach you for 10 minutes
 - You will give each other feedback about teaching style and the syllabus
 
+See the assignment in action from the 2018 cohort [here](https://github.com/teachingasart/2018/tree/master/assignments/4_Pedagogy).
