@@ -7,9 +7,6 @@ layout: post
 ---
  
 
-
-**Designing a Syllabus**
-
 (In class activity ahead)
 We’re going to design a syllabi for a semester-long course, **Digital Identity**. Your class will take place in the hypothetical high school curriculum you designed for the previous assignment. 
 

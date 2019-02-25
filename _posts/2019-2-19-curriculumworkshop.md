@@ -6,12 +6,9 @@ layout: post
 # image: ...
 ---
 
-### Curriculum workshop
 
+This workshop is to help you identify your objectives for teaching.
 
-This workshop is to help you identify your objective for teaching
-
-Three things 
 
 #### Objective 
 
