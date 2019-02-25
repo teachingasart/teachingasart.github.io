@@ -8,7 +8,7 @@ layout: post
 
 *Use the arrow keys to navigate through the slides for each lecture:*
 
-+ [Week 1 - Learner](http://taeyoonchoi.com/artofteaching/#/1); [Notes from Lecture 1](https://github.com/teachingasart/2019/blob/master/Lecture%20Notes/lecture-1.md)
++ [Week 1 - Learner](https://tchoi8.github.io/teachingasart/lecture1.html#/); [Notes from Lecture 1](https://github.com/teachingasart/2019/blob/master/Lecture%20Notes/lecture-1.md)
 
 + [Week 2 - Syllabus](https://tchoi8.github.io/teachingasart/lecture3-2019.html#/); [Notes from Lecture 2](https://github.com/teachingasart/2019/blob/master/Lecture%20Notes/lecture-2.md)
 
