@@ -29,7 +29,7 @@ For their final projects, students were instructed to create their own workshops
 	
 + Becca Moore, [Lofi Sketchbooks](https://www.eventbrite.com/e/lofi-sketchbooks-tickets-57475673286), 2-2:50
 
-+ Idith Barak, [Inspiration as a Tool in the Creative Process](https://www.eventbrite.com/e/inspiration-as-a-tool-in-the-creative-process-tickets-57371749447), 3-3:50
++ Idith Barak, [Inspiration as a Tool in the Creative Process](https://www.eventbrite.com/e/inspiration-as-a-tool-in-the-creative-process-tickets-57511219606), 3-3:50
 
 + Fenfen Chen, [Make the Book of Your Success Cheats](https://www.eventbrite.com/e/make-the-book-of-your-success-cheats-tickets-57419173293), 4-4:50
 
