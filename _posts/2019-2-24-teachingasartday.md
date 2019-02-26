@@ -36,8 +36,8 @@ For their final projects, students were instructed to create their own workshops
 **Computer Lab 617** 
 
 + Isabella Vento, [The Anti-Drift Lab](https://thisisawebsite.fyi/antidrift), 12-12:50
-
-+ Erin, TBD
+ 
++ Emma Rae Norton, [Hand Coding Round Robin](https://doodybrains.github.io/hand-coding-round-robin/event/), 1-1:50
 
 + Karina Hyland, [Your Mind at Rest?](https://www.eventbrite.com/e/your-mind-at-rest-tickets-57418071999), 2-2:50
 
@@ -47,8 +47,11 @@ For their final projects, students were instructed to create their own workshops
 
 + Jiwon Shin, [Generating Random Art](https://js6450.github.io/generative-random.html), 12-12:50
 
-+ Emma Rae Norton, [Hand Coding Round Robin](https://doodybrains.github.io/hand-coding-round-robin/event/), 1-1:50
+
++ Erin, [Embodied Storytelling/Nature Portal](https://www.eventbrite.com/e/embodied-storytellingnature-portal-tickets-57542557338), 1-1:50
 
 + Vince MingPu Shao, [ReTypography: Design System for Diversity Workshop](https://www.eventbrite.com/e/retypography-design-system-for-diversity-workshop-tickets-57363513814), 2-2:50
 
 + Ashley Lewis, [Intro to Data Weaving](https://www.eventbrite.com/e/intro-to-data-weaving-tickets-57418760057), 3-3:50
+
+All workshops are free and open to the public with RSVP. 
