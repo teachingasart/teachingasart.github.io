@@ -27,7 +27,7 @@ For their final projects, students were instructed to create their own workshops
 + Winnie Yoe, [Confrontation For Introverts: Creative Strategies for Sensing and Expressing](https://www.eventbrite.com/e/confrontation-for-introverts-creative-strategies-for-sensing-expressing-tickets-57410754111), 1-1:50
 	
 	
-+ Becca Moore, [Lofi Sketchbooks](https://www.eventbrite.com/e/lofi-sketchbooks-tickets-57410232551?ref=estw), 2-2:50
++ Becca Moore, [Lofi Sketchbooks](https://www.eventbrite.com/e/lofi-sketchbooks-tickets-57475673286), 2-2:50
 
 + Idith Barak, [Inspiration as a Tool in the Creative Process](https://www.eventbrite.com/e/inspiration-as-a-tool-in-the-creative-process-tickets-57371749447), 3-3:50
 
