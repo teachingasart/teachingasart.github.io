@@ -1,4 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-02-26T16:45:34-05:00</updated><id>http://localhost:4000/</id><title type="html">Teaching as Art</title><entry><title type="html">Teaching as Art Day 2019</title><link href="http://localhost:4000/posts/teachingasartday/" rel="alternate" type="text/html" title="Teaching as Art Day 2019" /><published>2019-02-24T00:00:00-05:00</published><updated>2019-02-24T00:00:00-05:00</updated><id>http://localhost:4000/posts/teachingasartday</id><content type="html" xml:base="http://localhost:4000/posts/teachingasartday/">&lt;p&gt;&lt;img src=&quot;/static/images/teachingasartday.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2019-05-19T22:12:29-04:00</updated><id>http://localhost:4000/</id><title type="html">Teaching as Art</title><entry><title type="html">2019 Final Projects</title><link href="http://localhost:4000/posts/final/" rel="alternate" type="text/html" title="2019 Final Projects" /><published>2019-05-19T00:00:00-04:00</published><updated>2019-05-19T00:00:00-04:00</updated><id>http://localhost:4000/posts/final</id><content type="html" xml:base="http://localhost:4000/posts/final/">&lt;p&gt;The Final Projects for Spring 2019 at ITP are all &lt;a href=&quot;https://github.com/teachingasart/2019/tree/master/Assignments/5_Final&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks for all the students who presented great workshops, participants who came by and Zach Cobble at Elmer S. Bobst Library.&lt;/p&gt;
+
+&lt;p&gt;Here are some pictures from Ashlew Lewis’ workshop Introduction to Data Weaving, which can be found &lt;a href=&quot;https://github.com/teachingasart/2019/blob/master/Assignments/5_Final/Ashley_Lewis.pdf&quot;&gt;here&lt;/a&gt;. 
+&lt;img src=&quot;/static/images/ashley/image5.jpg&quot; alt=&quot;&quot; /&gt;
+ &lt;img src=&quot;/static/images/ashley/image6.jpg&quot; alt=&quot;&quot; /&gt;
+ &lt;img src=&quot;/static/images/ashley/image7.jpg&quot; alt=&quot;&quot; /&gt;
+ &lt;img src=&quot;/static/images/ashley/image8.jpg&quot; alt=&quot;&quot; /&gt;
+ &lt;img src=&quot;/static/images/ashley/image9.jpg&quot; alt=&quot;&quot; /&gt;
+ &lt;img src=&quot;/static/images/ashley/image5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">The Final Projects for Spring 2019 at ITP are all here.</summary></entry><entry><title type="html">Generative Random Art</title><link href="http://localhost:4000/posts/random/" rel="alternate" type="text/html" title="Generative Random Art" /><published>2019-05-14T00:00:00-04:00</published><updated>2019-05-14T00:00:00-04:00</updated><id>http://localhost:4000/posts/random</id><content type="html" xml:base="http://localhost:4000/posts/random/">&lt;p&gt;A workshop presented by Teaching as Art Student &lt;a href=&quot;http://jiwonshin.com/&quot;&gt;Jiwon Shin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For the full curriculum, check this &lt;a href=&quot;https://js6450.github.io/random/&quot;&gt;content page&lt;/a&gt; and this &lt;a href=&quot;https://github.com/teachingasart/2019/blob/master/Assignments/5_Final/Jiwon_Shin.md&quot;&gt;documentation page&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">A workshop presented by Teaching as Art Student Jiwon Shin</summary></entry><entry><title type="html">hand coding round robin</title><link href="http://localhost:4000/posts/emma_rae_norton/" rel="alternate" type="text/html" title="hand coding round robin" /><published>2019-05-12T00:00:00-04:00</published><updated>2019-05-12T00:00:00-04:00</updated><id>http://localhost:4000/posts/emma_rae_norton</id><content type="html" xml:base="http://localhost:4000/posts/emma_rae_norton/">&lt;p&gt;A workshop presented by Teaching as Art Student &lt;a href=&quot;http://marceldochamp.net/&quot;&gt;emma rae norton&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;workshop-overview&quot;&gt;workshop overview&lt;/h2&gt;
+
+&lt;p&gt;hand coding round robin is a 50 minute workshop where a group of students will learn how to hand code a web page by working on each others computers. the workshop begins with a short lecture and discussion about computation as metaphor and what it might look like to approach computation outside of the metaphors that have been given to us and through writing code with care, character by character.&lt;/p&gt;
+
+&lt;p&gt;the workshop should be held in a space that has a large screen or projector for the teacher. ideally the students will be able to sit in a circular formation around a table.&lt;/p&gt;
+
+&lt;p&gt;there is a lot of flexibility in terms of number of participants and even number of teachers. the amount of time and space available should dictate the amount of students. the session can be run smoothly in under an hour with 5-8 participants. the duration of the workshop can also be extended by facilitating a longer lecture and discussion or adding more HTML/CSS prompts, each of which should take about 2-5 minutes.&lt;/p&gt;
+
+&lt;h2 id=&quot;preparation&quot;&gt;preparation&lt;/h2&gt;
+
+&lt;p&gt;the teacher of this workshop will need to have prepared a short lecture that starts with the idea of computation as metaphor and ends with examples of hand coded web pages. they should also be prepared to lead “code-alongs” for each prompt and answer questions about the nature of HTML, CSS, and Javascript.&lt;/p&gt;
+
+&lt;p&gt;the students of the workshop will need their own computer to participate. they will be switching seats and working on each others computers so they should also be comfortable with someone else using their computer. students should also have a text editor installed on their computer and they should have downloaded the starter HTML file (provided by the teacher) before arriving at the workshop.&lt;/p&gt;
+
+&lt;p&gt;if following the syllabus closely, preparation should take a few hours. the most important preparation includes sending students the starter HTML file and preparing lecture notes.&lt;/p&gt;
+
+&lt;h2 id=&quot;budget&quot;&gt;budget&lt;/h2&gt;
+
+&lt;p&gt;so long as you have access to a projector or screen for presenting and each student has their own computer then the budget shoud be extremely small! the students find it helpful to have a print out of the coding reference which can be found &lt;a href=&quot;https://doodybrains.github.io/hand-coding-round-robin/pre-workshop-materials/hand-coding-round-robin-reader-students.docx&quot; title=&quot;hand coding round robin reference for students&quot;&gt;here&lt;/a&gt;. cost will depend on the printing service and amount of students.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/ern-lecture.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;syllabus-in-two-parts&quot;&gt;syllabus (in two parts)&lt;/h2&gt;
+
+&lt;h3 id=&quot;part-i--lecture--discussion&quot;&gt;part I ~ lecture + discussion&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;0:00 - 0:15&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;this section will be 15 minutes. a lecture should be given at the very start of the class and questions and comments should be made throughout and after the lecture. the lecture should loosely follow the these concepts: computation as metaphor, programming as abstraction, the illusion of control that we as users of computers and programmers have over our devices and systems, dangers of the command, control, capture and reward feedback loop that programmers have with their computers, questions about the speed at which computation happens, question about what it might look like if we were to code slowly, one key at a time, and finally examples of hand coded web pages and how this type of attention to detail can be exemplary of a world wide web that is made with care for ourselves and for each other.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/ern-coding.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;part-ii--round-robin&quot;&gt;part II ~ round robin&lt;/h3&gt;
+
+&lt;p&gt;this section will be 35 minutes. each slide asks the student to move down one seat and create an HTML element. sometimes the students are asked to only style an element, sometimes they are asked to only create an element, other times they are asked to do both. the time for each element can be flexible depending on how much technical support is needed or how involved the students are in a particular prompt. the students should be back at their original seats by the last five minutes of the allotted thirty minutes.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;0:15 - 0:20&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Introduce H1 tag with unique ID, Introduce CSS and style by ID attribute. Students should write a metaphor for the world wide web (or computation, or reinvent the metaphor of the desktop).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;0:20 - 0:25&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Move down one seat, P tag inside DIV tag with unique ID, style by ID. Students should repsond to the metaphor inside the H1 tag.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;0:25 - 0:28&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Move down one seat, introduce IMG tag with unique ID, students should copy and paste andirect url for an image found on the web. Image should be selected in response to the P tag response.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;0:28 - 0:32&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Move down one seat, Style image by ID.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;0:32 - 0:39&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Move down one seat, freestyle section! Ask students to create an element that answers the question of the possible hidden meaning of the web page. Students who have more coding experience can feel free to uncomment the javascript at the bottom of the page.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;0:39 - 0:42&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Return to original seat, final P tag, style by ID. Students can write anything inside this P tag. Possible prompts might be to write a conclusion for the page or to write about how it felt to code on someone else’s computer.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;0:42 - 0:50&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Optional sharing and post-workshop notes. Ask students to send you their files and answer any outstanding questions.
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;img src=&quot;/static/images/ern-sharing.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;em&gt;original lecture slides can be found &lt;a href=&quot;https://doodybrains.github.io/hand-coding-round-robin/&quot; title=&quot;Hand Coding Lecture Slides&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;original syllabus can be found &lt;a href=&quot;https://github.com/doodybrains/hand-coding-round-robin&quot; title=&quot;Hand Coding Round Robin Syllabus&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;notes-on-sharing&quot;&gt;notes on sharing&lt;/h2&gt;
+
+&lt;p&gt;in the same round robin style the teacher and the students should stand up and briefly observe and discuss each web page. this can be done over the last 5-10 minutes depending on how many students are in the workshop and how much time is left.&lt;/p&gt;
+
+&lt;h2 id=&quot;notes-on-wrapping-up&quot;&gt;notes on wrapping up&lt;/h2&gt;
+
+&lt;p&gt;ask the students to rename and email you their HTML files. the files should be put up onto a github or an easily accessible web page for them to view. they should also be encouraged to work off of their existing files to keep building their own hand coded pages.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/ern-wrapping-up.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;reflection--student-feedback&quot;&gt;reflection + student feedback&lt;/h2&gt;
+
+&lt;p&gt;the workshop will run best with students who have written HTML or CSS in a text editor at least once. this ensures that students are already comfortable with the relationship between writing code in an editor and having it perform in another application like the browser.&lt;/p&gt;
+
+&lt;p&gt;most students in the first two runs of this workshop had extremely positive feedback. they were excited about learning how to code for a web page and also excited by the results of their code. it is important to read the room for skill level so that the teacher can spend more time introducing things if needed. for example, if there are several students who aren’t so familiar with CSS then it is important to move slowly with the first H1 element and teaching the students how to style it.&lt;/p&gt;
+
+&lt;p&gt;it might also be interesting to allow students to choose a computer for each prompt instead of moving down one seat, this might create more interesting web pages. also, during the sharing portion of the workshop it is helpful to point out individual elements on the web pages and ask students to speak to those elements, why did they choose the content and how did they decide to put it there? this will help to bring home the most important concepts of hand coding.&lt;/p&gt;
+
+&lt;p&gt;overall i am really excited about this workshop. i think it can be run in any number of spaces with any number of students. while the outcome of the workshop for students is learning how to hand code i think the greater outcome is the sharing of web pages and inspiring students to add to the world wide web in this way.&lt;/p&gt;
+
+&lt;p&gt;you can also read this guide &lt;a href=&quot;https://spaghettimeatballsbecomereallyfrightening.online/teaching-as-art/week-6-workshop-reflection/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">A workshop presented by Teaching as Art Student emma rae norton</summary></entry><entry><title type="html">Teaching as Art Day 2019</title><link href="http://localhost:4000/posts/teachingasartday/" rel="alternate" type="text/html" title="Teaching as Art Day 2019" /><published>2019-02-24T00:00:00-05:00</published><updated>2019-02-24T00:00:00-05:00</updated><id>http://localhost:4000/posts/teachingasartday</id><content type="html" xml:base="http://localhost:4000/posts/teachingasartday/">&lt;p&gt;&lt;img src=&quot;/static/images/teachingasartday.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Teaching as Art Day&lt;/strong&gt; is a culmination of a 6-week course, &lt;a href=&quot;https://github.com/teachingasart/2019&quot;&gt;&lt;em&gt;Teaching as Art&lt;/em&gt;&lt;/a&gt;, in which students explored teaching as a form of artistic and creative practice. Students explored curricula and syllabus building, focusing on socially-engaged art, museums and communities as schools, and inclusive learning. This year, we focused particularly on the works of Simone Leigh and Anni Albers.&lt;/p&gt;
 
@@ -269,7 +378,10 @@ conclude, compare&lt;/p&gt;
   &lt;li&gt;You will give each other feedback about teaching style and the syllabus&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;See the assignment in action from the 2018 cohort &lt;a href=&quot;https://github.com/teachingasart/2018/tree/master/assignments/4_Pedagogy&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Activity in a pair Everyone will have a learning map of their partner You will have 10 minutes to prepare a lesson for your partner, using their learning map. The topic of instruction is: how to boil an egg. You must write / draw the syllabus After the session, your partner will teach you for 10 minutes You will give each other feedback about teaching style and the syllabus</summary></entry><entry><title type="html">Reading Materials and Resources</title><link href="http://localhost:4000/posts/resources/" rel="alternate" type="text/html" title="Reading Materials and Resources" /><published>2019-02-18T00:00:00-05:00</published><updated>2019-02-18T00:00:00-05:00</updated><id>http://localhost:4000/posts/resources</id><content type="html" xml:base="http://localhost:4000/posts/resources/">&lt;p&gt;Below are some of the readings which guided our learning:&lt;/p&gt;
+&lt;p&gt;View the assignment in action from the 2018 cohort &lt;a href=&quot;https://github.com/teachingasart/2018/tree/master/assignments/4_Pedagogy&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/teachingasart/2018/raw/master/assignments/4_Pedagogy/img/kimbeom.jpg&quot; alt=&quot;&quot; /&gt; 
+&lt;em&gt;Kim Beom, “Objects Being Taught They are Nothing but Tools” (detail), 2010. Installation view at Artsonje Center, Seoul. Courtesy the artist and SAMUSO, Seoul. Photo: Myungrae Park.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Activity in a pair Everyone will have a learning map of their partner You will have 10 minutes to prepare a lesson for your partner, using their learning map. The topic of instruction is: how to boil an egg. You must write / draw the syllabus After the session, your partner will teach you for 10 minutes You will give each other feedback about teaching style and the syllabus</summary></entry><entry><title type="html">Reading Materials and Resources</title><link href="http://localhost:4000/posts/resources/" rel="alternate" type="text/html" title="Reading Materials and Resources" /><published>2019-02-18T00:00:00-05:00</published><updated>2019-02-18T00:00:00-05:00</updated><id>http://localhost:4000/posts/resources</id><content type="html" xml:base="http://localhost:4000/posts/resources/">&lt;p&gt;Below are some of the readings which guided our learning:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -300,9 +412,12 @@ conclude, compare&lt;/p&gt;
     &lt;p&gt;&lt;a href=&quot;https://tchoi8.github.io/teachingasart/lecture3-2019.html#/&quot;&gt;Week 2 - Syllabus&lt;/a&gt;; &lt;a href=&quot;https://github.com/teachingasart/2019/blob/master/Lecture%20Notes/lecture-2.md&quot;&gt;Notes from Lecture 2&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://tchoi8.github.io/teachingasart/2019_lecture3.html#/&quot;&gt;Week 3 - Pedagogy, Museums &amp;amp; Communities as a School&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://tchoi8.github.io/teachingasart/2019_lecture3.html#/&quot;&gt;Week 4 - Pedagogy, Museums &amp;amp; Communities as a School&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://tchoi8.github.io/teachingasart/lecture5#/&quot;&gt;Week 4 - Unlearning &amp;amp; Inclusive Learning Part 1&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://tchoi8.github.io/teachingasart/lecture6#/&quot;&gt;Part 2&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://tchoi8.github.io/teachingasart/lecture5#/&quot;&gt;Week 5 - Inclusive Learning&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://tchoi8.github.io/teachingasart/lecture6#/&quot;&gt;Week 6 - Unlearning&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><summary type="html">Use the arrow keys to navigate through the slides for each lecture:</summary></entry></feed>
